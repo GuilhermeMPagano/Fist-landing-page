@@ -1,0 +1,41 @@
+  /*geral*/
+  
+  @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;1,400&display=swap');
+
+  * {
+    font-family: "Open sans", "Sans-Serif"
+  }
+
+  /* Títulos */
+  h2 {
+    color: black;
+    font-size: 26px;
+    font-weight: normal;
+    line-height: 34px;
+  
+  }
+   
+ form h2 {
+  margin: 0;
+  padding: 30px 20px;
+  }
+
+  .subtittle {
+    color: #a9a9a9;
+    font-size: 18px;
+    line-height: 150%;
+  }
+
+  .notes {
+    font-size: 12px;
+    color: gray;
+   box-sizing: border-box;
+  }
+
+  /* Formulário */
+  form input,
+  form button {
+    font-size: 16px;
+    font-family: "helveticaNeue", "helvetica Neue", helvetica, Ariel, sans-sarif;
+    font-weight: 400;
+  }
